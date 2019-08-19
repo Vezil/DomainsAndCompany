@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
+    "vue-cool-select": "^2.10.2",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
